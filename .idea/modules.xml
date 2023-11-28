@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBootMSUdemy.iml" filepath="$PROJECT_DIR$/.idea/SpringBootMSUdemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Api-Gateway/api-gateway.iml" filepath="$PROJECT_DIR$/Api-Gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config-Servver/config-servver.iml" filepath="$PROJECT_DIR$/Config-Servver/config-servver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/organization-service/organization-service.iml" filepath="$PROJECT_DIR$/organization-service/organization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/department-service/restapi.iml" filepath="$PROJECT_DIR$/department-service/restapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeService/restapi (1) (com.employee).iml" filepath="$PROJECT_DIR$/EmployeeService/restapi (1) (com.employee).iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-rest-api/restapi (1) (com.net).iml" filepath="$PROJECT_DIR$/boot-rest-api/restapi (1) (com.net).iml" />
+      <module fileurl="file://$PROJECT_DIR$/crud-rest-api/restapi (2) (com.net).iml" filepath="$PROJECT_DIR$/crud-rest-api/restapi (2) (com.net).iml" />
+    </modules>
+  </component>
+</project>
